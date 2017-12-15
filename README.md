@@ -141,7 +141,7 @@ Alternatively, your submission could consist of the GitHub link to your reposito
 | Compile the Model | The submission compiles the architecture by specifying the loss function and optimizer. |
 | Train the Model    | The submission uses model checkpointing to train the model and saves the model with the best validation loss. |
 | Load the Model with the Best Validation Loss    | The submission loads the model weights that attained the least validation loss. |
-| Test the Model    | Accuracy on the test set is 60% or greater. |
+| Test the Model   | Accuracy on the test set is 60% or greater. |
 | Predict Dog Breed with the Model | The submission includes a function that takes a file path to an image as input and returns the dog breed that is predicted by the CNN. |
 
 
